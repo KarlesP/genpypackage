@@ -2,6 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='genpypackage',  # Replace with your package's name
+    version='0.1',  # Your package's version
     author='Panagiotis Karles',  # Your name
     author_email='karles.panagiotis@gmail.com',  # Your email
     description='A short description of your project',  # A short description
